@@ -5,7 +5,7 @@ namespace Switchwatt\LaravelSdk;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\ServiceProvider;
 
-class PlatformSdkServiceProvider extends ServiceProvider
+class LaravelSdkServiceProvider extends ServiceProvider
 {
     public function register()
     {
