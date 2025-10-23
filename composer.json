@@ -1,6 +1,5 @@
 {
     "name": "switchwatt/laravel-sdk",
-    "version": "0.1.6",
     "description": "An SDK to interact with the B2B Energy Switching Platform.",
     "type": "library",
     "license": "MIT",
