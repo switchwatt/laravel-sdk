@@ -5,7 +5,7 @@ namespace Switchwatt\LaravelSdk;
 use Illuminate\Http\Client\ConnectionException;
 use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Support\Facades\Http;
-use SwitchWatt\PlatformSdk\Data\SwitchData;
+use Switchwatt\LaravelSdk\Data\SwitchData;
 
 class PlatformClient
 {
