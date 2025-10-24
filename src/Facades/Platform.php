@@ -3,7 +3,7 @@
 namespace Switchwatt\LaravelSdk\Facades;
 
 use Illuminate\Support\Facades\Facade;
-use SwitchWatt\PlatformSdk\PlatformClient;
+use Switchwatt\LaravelSdk\PlatformClient;
 
 /**
  * @see \SwitchWatt\PlatformSdk\PlatformClient
